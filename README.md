@@ -66,24 +66,6 @@ Prompt → ML API → Generate Molecules → Score → Rank → Top Results
 
 ---
 
-## 📸 Demo  
-
-### prompt input
-<p align="center">
-  <img src="assets/demo1.jpeg" width="700"/>
-</p>
-
-### result
-<p align="center">
-  <img src="assets/demo2.jpeg" width="700"/>
-</p>
-
-<p align="center">
-  <img src="assets/demo3.jpeg" width="700"/>
-</p>
-
----
-
 ## ⚙️ Setup  
 
 ### Backend
