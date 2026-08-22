@@ -5,11 +5,6 @@ MolGen is a full-stack application that generates drug-like molecules from natur
 
 ---
 
-## 🚀 One-Line Pitch  
-Describe desired drug properties → get ranked, chemically valid molecules instantly.
-
----
-
 ## 🧠 Why This Matters  
 Drug discovery is costly (~$2.6B per drug) and slow (~12 years) with high failure rates.  
 
